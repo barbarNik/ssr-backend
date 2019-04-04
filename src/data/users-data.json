@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Marlin",
+    "id": "1",
+    "surname": "Manson",
+    "avatar": "https://www.billboard.com/files/media/marilyn-manson-premiere-may-2017-ap-billboard-1548.jpg",
+    "username": "marlin",
+    "password": "test",
+    "role": "USER",
+    "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyUm9sZSI6IlVTRVIifQ.pJxnlk2clathS56gP5NKFmf75UOXxWJcuXLpDt3Xh4w"
+  },
+  {
+    "name": "Super",
+    "id": "2",
+    "surname": "Admin",
+    "avatar": "https://www.billboard.com/files/media/marilyn-manson-premiere-may-2017-ap-billboard-1548.jpg",
+    "username": "admin",
+    "password": "admin",
+    "role": "ADMIN",
+    "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyUm9sZSI6IkFETUlOIn0.3XoK0elKfs0CtAFptk-5HADfVhzu9HKd-FTQhjnUGeU"
+  }
+]

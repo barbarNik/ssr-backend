@@ -1,0 +1,57 @@
+{
+  "marlin": [
+    {
+      "id": "UG9rZW1vbjowNDg=",
+      "number": "048",
+      "name": "Venonat",
+      "weight": {
+        "minimum": "26.25kg",
+        "maximum": "33.75kg"
+      },
+      "height": {
+        "minimum": "0.88m",
+        "maximum": "1.13m"
+      },
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2017/10/creepy-pokemon-david-szilagyi-99-59d33daebfa22-png__880.jpg"
+    },
+    {
+      "id": "UG9rZW1vbjowNDk=",
+      "number": "049",
+      "name": "Venomoth",
+      "weight": {
+        "minimum": "10.94kg",
+        "maximum": "14.06kg"
+      },
+      "height": {
+        "minimum": "1.31m",
+        "maximum": "1.69m"
+      },
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2017/10/creepy-pokemon-david-szilagyi-98-59d33dabcebb8__880.jpg"
+    },
+    {
+      "id": "UG9rZW1vbjowNTA=",
+      "number": "050",
+      "name": "Diglett",
+      "weight": {
+        "minimum": "0.7kg",
+        "maximum": "0.9kg"
+      },
+      "height": {
+        "minimum": "0.18m",
+        "maximum": "0.23m"
+      },
+      "types": [
+        "Ground"
+      ],
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2017/10/creepy-pokemon-david-szilagyi-45-59d33d053ae6e__880.jpg"
+    }
+  ]
+}

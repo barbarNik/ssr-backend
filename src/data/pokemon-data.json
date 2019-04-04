@@ -1,0 +1,825 @@
+[
+  {
+    "id": "UG9rZW1vbjowMDE=",
+    "number": "001",
+    "name": "Bulbasaur",
+    "weight": {
+      "minimum": "6.04kg",
+      "maximum": "7.76kg"
+    },
+    "height": {
+      "minimum": "0.61m",
+      "maximum": "0.79m"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/bulbasaur.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMDI=",
+    "number": "002",
+    "name": "Ivysaur",
+    "weight": {
+      "minimum": "11.38kg",
+      "maximum": "14.63kg"
+    },
+    "height": {
+      "minimum": "0.88m",
+      "maximum": "1.13m"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/ivysaur.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMDM=",
+    "number": "003",
+    "name": "Venusaur",
+    "weight": {
+      "minimum": "87.5kg",
+      "maximum": "112.5kg"
+    },
+    "height": {
+      "minimum": "1.75m",
+      "maximum": "2.25m"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/venusaur.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMDQ=",
+    "number": "004",
+    "name": "Charmander",
+    "weight": {
+      "minimum": "7.44kg",
+      "maximum": "9.56kg"
+    },
+    "height": {
+      "minimum": "0.53m",
+      "maximum": "0.68m"
+    },
+    "types": [
+      "Fire"
+    ],
+    "image": "https://img.pokemondb.net/artwork/charmander.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMDU=",
+    "number": "005",
+    "name": "Charmeleon",
+    "weight": {
+      "minimum": "16.63kg",
+      "maximum": "21.38kg"
+    },
+    "height": {
+      "minimum": "0.96m",
+      "maximum": "1.24m"
+    },
+    "types": [
+      "Fire"
+    ],
+    "image": "https://img.pokemondb.net/artwork/charmeleon.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMDY=",
+    "number": "006",
+    "name": "Charizard",
+    "weight": {
+      "minimum": "79.19kg",
+      "maximum": "101.81kg"
+    },
+    "height": {
+      "minimum": "1.49m",
+      "maximum": "1.91m"
+    },
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "image": "https://img.pokemondb.net/artwork/charizard.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMDc=",
+    "number": "007",
+    "name": "Squirtle",
+    "weight": {
+      "minimum": "7.88kg",
+      "maximum": "10.13kg"
+    },
+    "height": {
+      "minimum": "0.44m",
+      "maximum": "0.56m"
+    },
+    "types": [
+      "Water"
+    ],
+    "image": "https://img.pokemondb.net/artwork/squirtle.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMDg=",
+    "number": "008",
+    "name": "Wartortle",
+    "weight": {
+      "minimum": "19.69kg",
+      "maximum": "25.31kg"
+    },
+    "height": {
+      "minimum": "0.88m",
+      "maximum": "1.13m"
+    },
+    "types": [
+      "Water"
+    ],
+    "image": "https://img.pokemondb.net/artwork/wartortle.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMDk=",
+    "number": "009",
+    "name": "Blastoise",
+    "weight": {
+      "minimum": "74.81kg",
+      "maximum": "96.19kg"
+    },
+    "height": {
+      "minimum": "1.4m",
+      "maximum": "1.8m"
+    },
+    "types": [
+      "Water"
+    ],
+    "image": "https://img.pokemondb.net/artwork/blastoise.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMTA=",
+    "number": "010",
+    "name": "Caterpie",
+    "weight": {
+      "minimum": "2.54kg",
+      "maximum": "3.26kg"
+    },
+    "height": {
+      "minimum": "0.26m",
+      "maximum": "0.34m"
+    },
+    "types": [
+      "Bug"
+    ],
+    "image": "https://img.pokemondb.net/artwork/caterpie.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMTE=",
+    "number": "011",
+    "name": "Metapod",
+    "weight": {
+      "minimum": "8.66kg",
+      "maximum": "11.14kg"
+    },
+    "height": {
+      "minimum": "0.61m",
+      "maximum": "0.79m"
+    },
+    "types": [
+      "Bug"
+    ],
+    "image": "https://img.pokemondb.net/artwork/metapod.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMTI=",
+    "number": "012",
+    "name": "Butterfree",
+    "weight": {
+      "minimum": "28kg",
+      "maximum": "36kg"
+    },
+    "height": {
+      "minimum": "0.96m",
+      "maximum": "1.24m"
+    },
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "image": "https://img.pokemondb.net/artwork/butterfree.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMTM=",
+    "number": "013",
+    "name": "Weedle",
+    "weight": {
+      "minimum": "2.8kg",
+      "maximum": "3.6kg"
+    },
+    "height": {
+      "minimum": "0.26m",
+      "maximum": "0.34m"
+    },
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/weedle.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMTQ=",
+    "number": "014",
+    "name": "Kakuna",
+    "weight": {
+      "minimum": "8.75kg",
+      "maximum": "11.25kg"
+    },
+    "height": {
+      "minimum": "0.53m",
+      "maximum": "0.68m"
+    },
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/kakuna.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMTU=",
+    "number": "015",
+    "name": "Beedrill",
+    "weight": {
+      "minimum": "25.81kg",
+      "maximum": "33.19kg"
+    },
+    "height": {
+      "minimum": "0.88m",
+      "maximum": "1.13m"
+    },
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/beedrill.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMTY=",
+    "number": "016",
+    "name": "Pidgey",
+    "weight": {
+      "minimum": "1.57kg",
+      "maximum": "2.02kg"
+    },
+    "height": {
+      "minimum": "0.26m",
+      "maximum": "0.34m"
+    },
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "image": "https://img.pokemondb.net/artwork/pidgey.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMTc=",
+    "number": "017",
+    "name": "Pidgeotto",
+    "weight": {
+      "minimum": "26.25kg",
+      "maximum": "33.75kg"
+    },
+    "height": {
+      "minimum": "0.96m",
+      "maximum": "1.24m"
+    },
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "image": "https://img.pokemondb.net/artwork/pidgeotto.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMTg=",
+    "number": "018",
+    "name": "Pidgeot",
+    "weight": {
+      "minimum": "34.56kg",
+      "maximum": "44.44kg"
+    },
+    "height": {
+      "minimum": "1.31m",
+      "maximum": "1.69m"
+    },
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "image": "https://img.pokemondb.net/artwork/pidgeot.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMTk=",
+    "number": "019",
+    "name": "Rattata",
+    "weight": {
+      "minimum": "3.06kg",
+      "maximum": "3.94kg"
+    },
+    "height": {
+      "minimum": "0.26m",
+      "maximum": "0.34m"
+    },
+    "types": [
+      "Normal"
+    ],
+    "image": "https://img.pokemondb.net/artwork/rattata.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMjA=",
+    "number": "020",
+    "name": "Raticate",
+    "weight": {
+      "minimum": "16.19kg",
+      "maximum": "20.81kg"
+    },
+    "height": {
+      "minimum": "0.61m",
+      "maximum": "0.79m"
+    },
+    "types": [
+      "Normal"
+    ],
+    "image": "https://img.pokemondb.net/artwork/raticate.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMjE=",
+    "number": "021",
+    "name": "Spearow",
+    "weight": {
+      "minimum": "1.75kg",
+      "maximum": "2.25kg"
+    },
+    "height": {
+      "minimum": "0.26m",
+      "maximum": "0.34m"
+    },
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "image": "https://img.pokemondb.net/artwork/spearow.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMjI=",
+    "number": "022",
+    "name": "Fearow",
+    "weight": {
+      "minimum": "33.25kg",
+      "maximum": "42.75kg"
+    },
+    "height": {
+      "minimum": "1.05m",
+      "maximum": "1.35m"
+    },
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "image": "https://img.pokemondb.net/artwork/fearow.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMjM=",
+    "number": "023",
+    "name": "Ekans",
+    "weight": {
+      "minimum": "6.04kg",
+      "maximum": "7.76kg"
+    },
+    "height": {
+      "minimum": "1.75m",
+      "maximum": "2.25m"
+    },
+    "types": [
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/ekans.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMjQ=",
+    "number": "024",
+    "name": "Arbok",
+    "weight": {
+      "minimum": "56.88kg",
+      "maximum": "73.13kg"
+    },
+    "height": {
+      "minimum": "3.06m",
+      "maximum": "3.94m"
+    },
+    "types": [
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/arbok.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMjU=",
+    "number": "025",
+    "name": "Pikachu",
+    "weight": {
+      "minimum": "5.25kg",
+      "maximum": "6.75kg"
+    },
+    "height": {
+      "minimum": "0.35m",
+      "maximum": "0.45m"
+    },
+    "types": [
+      "Electric"
+    ],
+    "image": "https://img.pokemondb.net/artwork/pikachu.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMjY=",
+    "number": "026",
+    "name": "Raichu",
+    "weight": {
+      "minimum": "26.25kg",
+      "maximum": "33.75kg"
+    },
+    "height": {
+      "minimum": "0.7m",
+      "maximum": "0.9m"
+    },
+    "types": [
+      "Electric"
+    ],
+    "image": "https://img.pokemondb.net/artwork/raichu.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMjc=",
+    "number": "027",
+    "name": "Sandshrew",
+    "weight": {
+      "minimum": "10.5kg",
+      "maximum": "13.5kg"
+    },
+    "height": {
+      "minimum": "0.53m",
+      "maximum": "0.68m"
+    },
+    "types": [
+      "Ground"
+    ],
+    "image": "https://img.pokemondb.net/artwork/sandshrew.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMjg=",
+    "number": "028",
+    "name": "Sandslash",
+    "weight": {
+      "minimum": "25.81kg",
+      "maximum": "33.19kg"
+    },
+    "height": {
+      "minimum": "0.88m",
+      "maximum": "1.13m"
+    },
+    "types": [
+      "Ground"
+    ],
+    "image": "https://img.pokemondb.net/artwork/sandslash.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMjk=",
+    "number": "029",
+    "name": "Nidoran-F",
+    "weight": {
+      "minimum": "6.13kg",
+      "maximum": "7.88kg"
+    },
+    "height": {
+      "minimum": "0.35m",
+      "maximum": "0.45m"
+    },
+    "types": [
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/nidoran-f.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMzA=",
+    "number": "030",
+    "name": "Nidorina",
+    "weight": {
+      "minimum": "17.5kg",
+      "maximum": "22.5kg"
+    },
+    "height": {
+      "minimum": "0.7m",
+      "maximum": "0.9m"
+    },
+    "types": [
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/nidorina.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMzE=",
+    "number": "031",
+    "name": "Nidoqueen",
+    "weight": {
+      "minimum": "52.5kg",
+      "maximum": "67.5kg"
+    },
+    "height": {
+      "minimum": "1.14m",
+      "maximum": "1.46m"
+    },
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "image": "https://img.pokemondb.net/artwork/nidoqueen.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMzI=",
+    "number": "032",
+    "name": "Nidoran-M",
+    "weight": {
+      "minimum": "7.88kg",
+      "maximum": "10.13kg"
+    },
+    "height": {
+      "minimum": "0.44m",
+      "maximum": "0.56m"
+    },
+    "types": [
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/nidoran-m.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMzM=",
+    "number": "033",
+    "name": "Nidorino",
+    "weight": {
+      "minimum": "17.06kg",
+      "maximum": "21.94kg"
+    },
+    "height": {
+      "minimum": "0.79m",
+      "maximum": "1.01m"
+    },
+    "types": [
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/nidorino.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMzQ=",
+    "number": "034",
+    "name": "Nidoking",
+    "weight": {
+      "minimum": "54.25kg",
+      "maximum": "69.75kg"
+    },
+    "height": {
+      "minimum": "1.22m",
+      "maximum": "1.57m"
+    },
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "image": "https://img.pokemondb.net/artwork/nidoking.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMzU=",
+    "number": "035",
+    "name": "Clefairy",
+    "weight": {
+      "minimum": "6.56kg",
+      "maximum": "8.44kg"
+    },
+    "height": {
+      "minimum": "0.53m",
+      "maximum": "0.68m"
+    },
+    "types": [
+      "Fairy"
+    ],
+    "image": "https://img.pokemondb.net/artwork/clefairy.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMzY=",
+    "number": "036",
+    "name": "Clefable",
+    "weight": {
+      "minimum": "35kg",
+      "maximum": "45kg"
+    },
+    "height": {
+      "minimum": "1.14m",
+      "maximum": "1.46m"
+    },
+    "types": [
+      "Fairy"
+    ],
+    "image": "https://img.pokemondb.net/artwork/clefable.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMzc=",
+    "number": "037",
+    "name": "Vulpix",
+    "weight": {
+      "minimum": "8.66kg",
+      "maximum": "11.14kg"
+    },
+    "height": {
+      "minimum": "0.53m",
+      "maximum": "0.68m"
+    },
+    "types": [
+      "Fire"
+    ],
+    "image": "https://img.pokemondb.net/artwork/vulpix.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMzg=",
+    "number": "038",
+    "name": "Ninetales",
+    "weight": {
+      "minimum": "17.41kg",
+      "maximum": "22.39kg"
+    },
+    "height": {
+      "minimum": "0.96m",
+      "maximum": "1.24m"
+    },
+    "types": [
+      "Fire"
+    ],
+    "image": "https://img.pokemondb.net/artwork/ninetales.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowMzk=",
+    "number": "039",
+    "name": "Jigglypuff",
+    "weight": {
+      "minimum": "4.81kg",
+      "maximum": "6.19kg"
+    },
+    "height": {
+      "minimum": "0.44m",
+      "maximum": "0.56m"
+    },
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "image": "https://img.pokemondb.net/artwork/jigglypuff.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowNDA=",
+    "number": "040",
+    "name": "Wigglytuff",
+    "weight": {
+      "minimum": "10.5kg",
+      "maximum": "13.5kg"
+    },
+    "height": {
+      "minimum": "0.88m",
+      "maximum": "1.13m"
+    },
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "image": "https://img.pokemondb.net/artwork/wigglytuff.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowNDE=",
+    "number": "041",
+    "name": "Zubat",
+    "weight": {
+      "minimum": "6.56kg",
+      "maximum": "8.44kg"
+    },
+    "height": {
+      "minimum": "0.7m",
+      "maximum": "0.9m"
+    },
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "image": "https://img.pokemondb.net/artwork/zubat.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowNDI=",
+    "number": "042",
+    "name": "Golbat",
+    "weight": {
+      "minimum": "48.13kg",
+      "maximum": "61.88kg"
+    },
+    "height": {
+      "minimum": "1.4m",
+      "maximum": "1.8m"
+    },
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "image": "https://img.pokemondb.net/artwork/golbat.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowNDM=",
+    "number": "043",
+    "name": "Oddish",
+    "weight": {
+      "minimum": "4.73kg",
+      "maximum": "6.08kg"
+    },
+    "height": {
+      "minimum": "0.44m",
+      "maximum": "0.56m"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/oddish.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowNDQ=",
+    "number": "044",
+    "name": "Gloom",
+    "weight": {
+      "minimum": "7.53kg",
+      "maximum": "9.68kg"
+    },
+    "height": {
+      "minimum": "0.7m",
+      "maximum": "0.9m"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/gloom.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowNDU=",
+    "number": "045",
+    "name": "Vileplume",
+    "weight": {
+      "minimum": "16.28kg",
+      "maximum": "20.93kg"
+    },
+    "height": {
+      "minimum": "1.05m",
+      "maximum": "1.35m"
+    },
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "image": "https://img.pokemondb.net/artwork/vileplume.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowNDY=",
+    "number": "046",
+    "name": "Paras",
+    "weight": {
+      "minimum": "4.73kg",
+      "maximum": "6.08kg"
+    },
+    "height": {
+      "minimum": "0.26m",
+      "maximum": "0.34m"
+    },
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "image": "https://img.pokemondb.net/artwork/paras.jpg"
+  },
+  {
+    "id": "UG9rZW1vbjowNDc=",
+    "number": "047",
+    "name": "Parasect",
+    "weight": {
+      "minimum": "25.81kg",
+      "maximum": "33.19kg"
+    },
+    "height": {
+      "minimum": "0.88m",
+      "maximum": "1.13m"
+    },
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "image": "https://img.pokemondb.net/artwork/parasect.jpg"
+  }
+]

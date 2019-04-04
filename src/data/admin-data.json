@@ -1,0 +1,57 @@
+{
+  "admin": [
+    {
+      "id": "UG9rZW1vbjowNDg=",
+      "number": "048",
+      "name": "Gardevoir",
+      "weight": {
+        "minimum": "26.25kg",
+        "maximum": "33.75kg"
+      },
+      "height": {
+        "minimum": "0.88m",
+        "maximum": "1.13m"
+      },
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "image": "https://static.thetoptens.com/img/lists/9064.jpg"
+    },
+    {
+      "id": "UG9rZW1vbjowNDk=",
+      "number": "049",
+      "name": "Lopunny",
+      "weight": {
+        "minimum": "10.94kg",
+        "maximum": "14.06kg"
+      },
+      "height": {
+        "minimum": "1.31m",
+        "maximum": "1.69m"
+      },
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "image": "https://static.thetoptens.com/img/lists/36656.jpg"
+    },
+    {
+      "id": "UG9rZW1vbjowNTA=",
+      "number": "050",
+      "name": "Espeon",
+      "weight": {
+        "minimum": "0.7kg",
+        "maximum": "0.9kg"
+      },
+      "height": {
+        "minimum": "0.18m",
+        "maximum": "0.23m"
+      },
+      "types": [
+        "Ground"
+      ],
+      "image": "https://static.thetoptens.com/img/lists/83310.jpg"
+    }
+  ]
+}
